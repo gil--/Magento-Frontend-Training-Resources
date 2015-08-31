@@ -23,6 +23,12 @@
 
 ##Magento 2
 
+### Official Docs
+- [Front end Guide](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/bk-frontend-dev-guide.html)
+- [Javascript Developer Guide](http://devdocs.magento.com/guides/v2.0/javascript-dev-guide/bk-javascript-dev-guide.html)
+- [Coding Standards](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html)
+- [REST API](http://devdocs.magento.com/guides/v2.0/rest/bk-rest.html)
+
 -- 
 
 > Feel free to open a Pull Request with additional resources that may be useful to a Magento Frontend Developer
