@@ -3,6 +3,7 @@
 ## Magento 1
 
 ###Blogs
+- [What in the world is a block, anyway?](http://blog.philwinkle.com/the-most-misunderstood-concept-in-magento/) by @philwinkle the world-renowned Magento developer
 - [Magento Infinite Theme Fallback](http://alanstorm.com/magento_infinite_fallback_theme_xml)
 - [Parent Child Themes](http://alanstorm.com/magento_parent_child_themes)
 - [Rather technical Post about Fallback](http://www.classyllama.com/blog/depth-look-magento-theme-fallback)
