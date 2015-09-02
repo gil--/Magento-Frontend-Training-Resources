@@ -30,6 +30,14 @@
 - [Coding Standards](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html)
 - [REST API](http://devdocs.magento.com/guides/v2.0/rest/bk-rest.html)
 
--- 
+--
+
+## Contributing 
 
 > Feel free to open a Pull Request with additional resources that may be useful to a Magento Frontend Developer
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [gil--](https://github.com/gil--) has waived all copyright and related or neighboring rights to this work.
