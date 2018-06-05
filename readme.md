@@ -1,8 +1,18 @@
 # Magento Front End Tutorials/Resources
 
+## Magento 2
+
+### Official Docs
+- [Front end Guide](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/bk-frontend-dev-guide.html)
+- [Javascript Developer Guide](http://devdocs.magento.com/guides/v2.0/javascript-dev-guide/bk-javascript-dev-guide.html)
+- [Coding Standards](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html)
+- [REST API](http://devdocs.magento.com/guides/v2.0/rest/bk-rest.html)
+
+--
+
 ## Magento 1
 
-###Blogs
+### Blogs
 - [What in the world is a block, anyway?](http://blog.philwinkle.com/the-most-misunderstood-concept-in-magento/) by @philwinkle the world-renowned Magento developer
 - [Magento Infinite Theme Fallback](http://alanstorm.com/magento_infinite_fallback_theme_xml)
 - [Parent Child Themes](http://alanstorm.com/magento_parent_child_themes)
@@ -12,10 +22,10 @@
 - [Magento Layout XML Part 1](http://magebase.com/magento-tutorials/demystifying-magentos-layout-xml-part-1/)
 - [Magento Layout XML Part 2](http://magebase.com/magento-tutorials/digging-deeper-into-magentos-layout-xml-part-2/)
 
-###Books
+### Books
 - [No Frills Magento](http://www.pulsestorm.net/magento-layout/) [[Purchase]](http://store.pulsestorm.net/products/no-frills-magento-layout)
 
-###Videos
+### Videos
 - [Free Video Series from LevelUp Tutorials](http://leveluptuts.com/tutorials/Magento-Community-Tutorials)
 
 ###Study Guides for Cert
@@ -24,16 +34,6 @@
 
 ### Cheatsheets
 [Frontend Snippets](https://github.com/dannynimmo/magento-cheat-sheet)
-
-##Magento 2
-
-### Official Docs
-- [Front end Guide](http://devdocs.magento.com/guides/v2.0/frontend-dev-guide/bk-frontend-dev-guide.html)
-- [Javascript Developer Guide](http://devdocs.magento.com/guides/v2.0/javascript-dev-guide/bk-javascript-dev-guide.html)
-- [Coding Standards](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html)
-- [REST API](http://devdocs.magento.com/guides/v2.0/rest/bk-rest.html)
-
---
 
 ## Contributing 
 
