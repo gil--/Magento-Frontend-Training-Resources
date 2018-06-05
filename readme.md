@@ -8,8 +8,6 @@
 - [Coding Standards](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html)
 - [REST API](http://devdocs.magento.com/guides/v2.0/rest/bk-rest.html)
 
---
-
 ## Magento 1
 
 ### Blogs
@@ -28,12 +26,14 @@
 ### Videos
 - [Free Video Series from LevelUp Tutorials](http://leveluptuts.com/tutorials/Magento-Community-Tutorials)
 
-###Study Guides for Cert
+### Study Guides for Cert
 - [Answers/FAQ to Magent's Official Study Guide](http://www.demacmedia.com/magento-commerce/magento-frontend-developer-certification-exam-study-guide-qa/)
 - [Example Front End Test Questions](http://robkent.gitbooks.io/magento-front-end-developer-test-questions/content/01-the_magento_fallback_system.html)
 
 ### Cheatsheets
 [Frontend Snippets](https://github.com/dannynimmo/magento-cheat-sheet)
+
+---
 
 ## Contributing 
 
